@@ -59,11 +59,11 @@ Coeficiente de Correlacion: 0.0033827270929922353
 
 De la curva de ajuste encontrada previamente podemos encontrar las imagenes en 2D para X y Y. Las graficas encontradas son las siguientes.
 
-<img src="Figure_5.png"> <img src="Figure_6.png">
+<img src="Figure_5.png" width="400"> <img src="Figure_6.png" width="400">
 
 Para la graficacion 3D usamos la libreria Axes3D. Dandonos como resultado la siguiente grafica.
 
-<img src="Figure_7.png">
+<img src="Figure_7.png" width="400">
 
 
 
