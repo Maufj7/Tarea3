@@ -32,7 +32,20 @@ Pregunta 3: Hallar los valores de correlación, covarianza y coeficiente de corr
 
 La funcion para poder encontrar la correlacion es la siguiente:
 
-<img src="Correlacion.png" width="200">
+<img src="Correlacion.png" width="300">
+
+Del analisis de la formula concluimos que se debe crear un programa que multiplique el valor de X por el valor de Y por el valor de frecuencia relativa en cada caso. Como por ejemplo 5*5*0.00262 y asi sucesivamente para todas las entradas y sumarlas. Se hace al calculo mediante un for y nos da como resultado 149.54281000000012. Sabemos que la correlacion es la medida o cantidad de relacion entre dos variables, por lo que mientras mas grande el numero, las variables estan linealmente asociadas. 
+
+Luego para la covarianza usamos la siguiente formula.
+
+
+<img src="Covarianza.png" width="300">
+
+```python
+Correlacion: 149.54281000000012
+Covarianza: 0.06543408767088855
+Coeficiente de Correlacion: 0.0033827270929922353
+```
 
 
 
