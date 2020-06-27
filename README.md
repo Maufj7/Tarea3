@@ -24,7 +24,7 @@ Ademas de que sabemos que la funcion de densidad conjunta es la siguiente.
 
 Por lo que hacemos los calculos para cada funcion de X y Y , luego las multimplicamos y encontramos el resultado final como se ve en la siguiente imagen.
 
-<img src="Gauss3.png" width="400">
+<img src="Gauss3.png" width="500">
 
 
 ##Pregunta 3: Hallar los valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y explicar su significado.
