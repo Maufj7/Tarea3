@@ -12,5 +12,20 @@ Siguientemente ya con estas figuras podemos encontrar una curva de ajuste. En es
 <img src="Figure_3.png">
 <img src="Figure_4.png">
 
+## Pregunta 2: Asumir independencia de X y Y. Analíticamente, ¿cuál es entonces la expresión de la función de densidad conjunta que modela los datos?
+
+Debido al ajuste que le dimos, se usa la funcion gaussiana para este calculo. La funcion gaussiana se ve en la siguiente imagen.
+
+<img src="Gauss.png">
+
+Ademas de que sabemos que la funcion de densidad conjunta es la siguiente.
+<img src="Gauss2.png">
+
+Por lo que hacemos los calculos para cada funcion de X y Y , luego las multimplicamos y encontramos el resultado final como se ve en l asiguiente imagen.
+
+<img src="Gauss3.png">
+
+
+
 
 
