@@ -27,6 +27,14 @@ Por lo que hacemos los calculos para cada funcion de X y Y , luego las multimpli
 <img src="Gauss3.png" width="400">
 
 
+Pregunta 3: Hallar los valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y explicar su significado.
+
+
+La funcion para poder encontrar la correlacion es la siguiente:
+
+<img src="Correlacion.png" width="200">
+
+
 
 
 
