@@ -27,7 +27,7 @@ Por lo que hacemos los calculos para cada funcion de X y Y , luego las multimpli
 <img src="Gauss3.png" width="400">
 
 
-Pregunta 3: Hallar los valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y explicar su significado.
+##Pregunta 3: Hallar los valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y explicar su significado.
 
 
 La funcion para poder encontrar la correlacion es la siguiente:
@@ -45,7 +45,7 @@ Por lo que al igual que con la correlacion, creamos un for que para cada entrada
 
 Finalmente para el coeficiente de correlacion, con el programa dividimos la covarianza entre los sigma encontrados para cada variable. Usando la siguiente formula.
 
-<img src="coeficienteCorrelacion.png" width="300">
+<img src="coeficienteCorrelacion.png" width="200">
 
 Finalmente al correr el programa obtenemos como respuesta lo siguiente.
 
