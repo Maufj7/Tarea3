@@ -16,13 +16,13 @@ Siguientemente ya con estas figuras podemos encontrar una curva de ajuste. En es
 
 Debido al ajuste que le dimos, se usa la funcion gaussiana para este calculo. La funcion gaussiana se ve en la siguiente imagen.
 
-<img src="Gauss.png" width="300">
+<img src="Gauss.png" width="200">
 
 Ademas de que sabemos que la funcion de densidad conjunta es la siguiente.
 
-<img src="Gauss2.png" width="300">
+<img src="Gauss2.png" width="200">
 
-Por lo que hacemos los calculos para cada funcion de X y Y , luego las multimplicamos y encontramos el resultado final como se ve en l asiguiente imagen.
+Por lo que hacemos los calculos para cada funcion de X y Y , luego las multimplicamos y encontramos el resultado final como se ve en la siguiente imagen.
 
 <img src="Gauss3.png" width="400">
 
