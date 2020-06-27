@@ -47,6 +47,9 @@ Finalmente para el coeficiente de correlacion, con el programa dividimos la cova
 
 <img src="coeficienteCorrelacion.png" width="200">
 
+Con el valor de covarianza ya encontrado, la formula nos da como resultado 0.0033827270929922353. Este da como resultado postiva, por lo que al aumentar el valor de la variable, la relacion dice que esta aumenta y la otra tambien.
+
+
 Finalmente al correr el programa obtenemos como respuesta lo siguiente.
 
 ```python
