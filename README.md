@@ -34,12 +34,20 @@ La funcion para poder encontrar la correlacion es la siguiente:
 
 <img src="Correlacion.png" width="300">
 
-Del analisis de la formula concluimos que se debe crear un programa que multiplique el valor de X por el valor de Y por el valor de frecuencia relativa en cada caso. Como por ejemplo 5*5*0.00262 y asi sucesivamente para todas las entradas y sumarlas. Se hace al calculo mediante un for y nos da como resultado 149.54281000000012. Sabemos que la correlacion es la medida o cantidad de relacion entre dos variables, por lo que mientras mas grande el numero, las variables estan linealmente asociadas. 
+Del analisis de la formula concluimos que se debe crear un programa que multiplique el valor de X por el valor de Y por el valor de frecuencia relativa en cada caso. Como por ejemplo 5x5x0.00262 y asi sucesivamente para todas las entradas y sumarlas. Se hace al calculo mediante un for y nos da como resultado 149.54281000000012. Sabemos que la correlacion es la medida o cantidad de relacion entre dos variables, por lo que mientras mas grande el numero, las variables estan linealmente asociadas. 
 
 Luego para la covarianza usamos la siguiente formula.
 
 
 <img src="Covarianza.png" width="300">
+
+Por lo que al igual que con la correlacion, creamos un for que para cada entrada de X y Y reste la media de cada uno y los vaya sumando,mas que ya sabemos los valores de la media debido al mu entregado por los parametros. Ademas de multiplicarlos por su frecuencia. El programa nos entrega una covarianza de 0.06543408767088855. Esto lo que nos indica es un tipo de relacion de dispersion entre las dos variables. Siendo positivo esto indica que cuando una crece la otra tambien debido a la relacion directa que contienen.
+
+Finalmente para el coeficiente de correlacion, con el programa dividimos la covarianza entre los sigma encontrados para cada variable. Usando la siguiente formula.
+
+<img src="coeficienteCorrelacion.png" width="300">
+
+Finalmente al correr el programa obtenemos como respuesta lo siguiente.
 
 ```python
 Correlacion: 149.54281000000012
